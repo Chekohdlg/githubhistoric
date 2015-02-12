@@ -40,3 +40,4 @@
 [Fecha: 2015-02-09] Se realizó una actualización.
 [Fecha: 2015-02-10] Se realizó una actualización.
 [Fecha: 2015-02-11] Se realizó una actualización.
+[Fecha: 2015-02-12] Se realizó una actualización.
