@@ -65,3 +65,4 @@
 [Fecha: 2015-03-06] Se realizó una actualización.
 [Fecha: 2015-03-07] Se realizó una actualización.
 [Fecha: 2015-03-08] Se realizó una actualización.
+[Fecha: 2015-03-09] Se realizó una actualización.
