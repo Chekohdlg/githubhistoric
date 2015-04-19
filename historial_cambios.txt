@@ -106,3 +106,4 @@
 [Fecha: 2015-04-16] Se realizó una actualización.
 [Fecha: 2015-04-17] Se realizó una actualización.
 [Fecha: 2015-04-18] Se realizó una actualización.
+[Fecha: 2015-04-19] Se realizó una actualización.
