@@ -111,3 +111,4 @@
 [Fecha: 2015-04-21] Se realizó una actualización.
 [Fecha: 2015-04-22] Se realizó una actualización.
 [Fecha: 2015-04-23] Se realizó una actualización.
+[Fecha: 2015-04-24] Se realizó una actualización.
