@@ -123,3 +123,4 @@
 [Fecha: 2015-05-03] Se realizó una actualización.
 [Fecha: 2015-05-04] Se realizó una actualización.
 [Fecha: 2015-05-05] Se realizó una actualización.
+[Fecha: 2015-05-06] Se realizó una actualización.
