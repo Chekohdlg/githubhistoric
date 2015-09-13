@@ -253,3 +253,4 @@
 [Fecha: 2015-09-10] Se realizó una actualización.
 [Fecha: 2015-09-11] Se realizó una actualización.
 [Fecha: 2015-09-12] Se realizó una actualización.
+[Fecha: 2015-09-13] Se realizó una actualización.
