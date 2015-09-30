@@ -270,3 +270,4 @@
 [Fecha: 2015-09-27] Se realizó una actualización.
 [Fecha: 2015-09-28] Se realizó una actualización.
 [Fecha: 2015-09-29] Se realizó una actualización.
+[Fecha: 2015-09-30] Se realizó una actualización.
