@@ -291,3 +291,4 @@
 [Fecha: 2015-10-18] Se realizó una actualización.
 [Fecha: 2015-10-19] Se realizó una actualización.
 [Fecha: 2015-10-20] Se realizó una actualización.
+[Fecha: 2015-10-21] Se realizó una actualización.
