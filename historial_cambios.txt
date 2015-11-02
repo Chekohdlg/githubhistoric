@@ -303,3 +303,4 @@
 [Fecha: 2015-10-30] Se realizó una actualización.
 [Fecha: 2015-10-31] Se realizó una actualización.
 [Fecha: 2015-11-01] Se realizó una actualización.
+[Fecha: 2015-11-02] Se realizó una actualización.
