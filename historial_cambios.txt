@@ -349,3 +349,4 @@
 [Fecha: 2015-12-15] Se realizó una actualización.
 [Fecha: 2015-12-16] Se realizó una actualización.
 [Fecha: 2015-12-17] Se realizó una actualización.
+[Fecha: 2015-12-18] Se realizó una actualización.
