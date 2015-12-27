@@ -358,3 +358,4 @@
 [Fecha: 2015-12-24] Se realizó una actualización.
 [Fecha: 2015-12-25] Se realizó una actualización.
 [Fecha: 2015-12-26] Se realizó una actualización.
+[Fecha: 2015-12-27] Se realizó una actualización.
