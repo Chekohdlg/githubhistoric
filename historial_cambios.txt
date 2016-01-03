@@ -365,3 +365,4 @@
 [Fecha: 2015-12-31] Se realizó una actualización.
 [Fecha: 2016-01-01] Se realizó una actualización.
 [Fecha: 2016-01-02] Se realizó una actualización.
+[Fecha: 2016-01-03] Se realizó una actualización.
