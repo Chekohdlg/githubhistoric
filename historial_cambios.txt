@@ -374,3 +374,4 @@
 [Fecha: 2016-01-09] Se realizó una actualización.
 [Fecha: 2016-01-10] Se realizó una actualización.
 [Fecha: 2016-01-11] Se realizó una actualización.
+[Fecha: 2016-01-12] Se realizó una actualización.
