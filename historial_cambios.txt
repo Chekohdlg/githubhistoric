@@ -423,3 +423,4 @@
 [Fecha: 2016-02-27] Se realizó una actualización.
 [Fecha: 2016-02-28] Se realizó una actualización.
 [Fecha: 2016-02-29] Se realizó una actualización.
+[Fecha: 2016-03-01] Se realizó una actualización.
