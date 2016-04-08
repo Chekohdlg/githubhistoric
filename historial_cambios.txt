@@ -461,3 +461,4 @@
 [Fecha: 2016-04-05] Se realizó una actualización.
 [Fecha: 2016-04-06] Se realizó una actualización.
 [Fecha: 2016-04-07] Se realizó una actualización.
+[Fecha: 2016-04-08] Se realizó una actualización.
