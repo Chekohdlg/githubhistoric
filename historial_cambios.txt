@@ -469,3 +469,4 @@
 [Fecha: 2016-04-13] Se realizó una actualización.
 [Fecha: 2016-04-14] Se realizó una actualización.
 [Fecha: 2016-04-15] Se realizó una actualización.
+[Fecha: 2016-04-16] Se realizó una actualización.
