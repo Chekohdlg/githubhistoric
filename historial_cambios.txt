@@ -475,3 +475,4 @@
 [Fecha: 2016-04-19] Se realizó una actualización.
 [Fecha: 2016-04-20] Se realizó una actualización.
 [Fecha: 2016-04-21] Se realizó una actualización.
+[Fecha: 2016-04-22] Se realizó una actualización.
