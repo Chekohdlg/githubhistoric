@@ -481,3 +481,4 @@
 [Fecha: 2016-04-25] Se realizó una actualización.
 [Fecha: 2016-04-26] Se realizó una actualización.
 [Fecha: 2016-04-27] Se realizó una actualización.
+[Fecha: 2016-04-28] Se realizó una actualización.
