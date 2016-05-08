@@ -491,3 +491,4 @@
 [Fecha: 2016-05-05] Se realizó una actualización.
 [Fecha: 2016-05-06] Se realizó una actualización.
 [Fecha: 2016-05-07] Se realizó una actualización.
+[Fecha: 2016-05-08] Se realizó una actualización.
