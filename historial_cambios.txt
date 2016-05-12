@@ -495,3 +495,4 @@
 [Fecha: 2016-05-09] Se realizó una actualización.
 [Fecha: 2016-05-10] Se realizó una actualización.
 [Fecha: 2016-05-11] Se realizó una actualización.
+[Fecha: 2016-05-12] Se realizó una actualización.
