@@ -500,3 +500,4 @@
 [Fecha: 2016-05-14] Se realizó una actualización.
 [Fecha: 2016-05-15] Se realizó una actualización.
 [Fecha: 2016-05-16] Se realizó una actualización.
+[Fecha: 2016-05-17] Se realizó una actualización.
