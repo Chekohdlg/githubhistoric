@@ -512,3 +512,4 @@
 [Fecha: 2016-05-26] Se realizó una actualización.
 [Fecha: 2016-05-27] Se realizó una actualización.
 [Fecha: 2016-05-28] Se realizó una actualización.
+[Fecha: 2016-05-29] Se realizó una actualización.
