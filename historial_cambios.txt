@@ -519,3 +519,4 @@
 [Fecha: 2016-06-02] Se realizó una actualización.
 [Fecha: 2016-06-03] Se realizó una actualización.
 [Fecha: 2016-06-04] Se realizó una actualización.
+[Fecha: 2016-06-05] Se realizó una actualización.
