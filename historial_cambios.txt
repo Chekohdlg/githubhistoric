@@ -522,3 +522,4 @@
 [Fecha: 2016-06-05] Se realizó una actualización.
 [Fecha: 2016-06-06] Se realizó una actualización.
 [Fecha: 2016-06-07] Se realizó una actualización.
+[Fecha: 2016-06-08] Se realizó una actualización.
