@@ -597,3 +597,4 @@
 [Fecha: 2016-08-19] Se realizó una actualización.
 [Fecha: 2016-08-20] Se realizó una actualización.
 [Fecha: 2016-08-21] Se realizó una actualización.
+[Fecha: 2016-08-22] Se realizó una actualización.
