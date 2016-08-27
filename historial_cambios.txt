@@ -602,3 +602,4 @@
 [Fecha: 2016-08-24] Se realizó una actualización.
 [Fecha: 2016-08-25] Se realizó una actualización.
 [Fecha: 2016-08-26] Se realizó una actualización.
+[Fecha: 2016-08-27] Se realizó una actualización.
