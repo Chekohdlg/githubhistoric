@@ -605,3 +605,4 @@
 [Fecha: 2016-08-27] Se realizó una actualización.
 [Fecha: 2016-08-28] Se realizó una actualización.
 [Fecha: 2016-08-29] Se realizó una actualización.
+[Fecha: 2016-08-30] Se realizó una actualización.
