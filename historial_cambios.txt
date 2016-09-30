@@ -636,3 +636,4 @@
 [Fecha: 2016-09-27] Se realizó una actualización.
 [Fecha: 2016-09-28] Se realizó una actualización.
 [Fecha: 2016-09-29] Se realizó una actualización.
+[Fecha: 2016-09-30] Se realizó una actualización.
