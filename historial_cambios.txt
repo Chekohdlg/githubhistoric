@@ -650,3 +650,4 @@
 [Fecha: 2016-10-11] Se realizó una actualización.
 [Fecha: 2016-10-12] Se realizó una actualización.
 [Fecha: 2016-10-13] Se realizó una actualización.
+[Fecha: 2016-10-14] Se realizó una actualización.
