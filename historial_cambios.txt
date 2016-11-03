@@ -670,3 +670,4 @@
 [Fecha: 2016-10-31] Se realizó una actualización.
 [Fecha: 2016-11-01] Se realizó una actualización.
 [Fecha: 2016-11-02] Se realizó una actualización.
+[Fecha: 2016-11-03] Se realizó una actualización.
