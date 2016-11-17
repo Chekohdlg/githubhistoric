@@ -684,3 +684,4 @@
 [Fecha: 2016-11-14] Se realizó una actualización.
 [Fecha: 2016-11-15] Se realizó una actualización.
 [Fecha: 2016-11-16] Se realizó una actualización.
+[Fecha: 2016-11-17] Se realizó una actualización.
