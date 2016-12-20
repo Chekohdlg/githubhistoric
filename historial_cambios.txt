@@ -717,3 +717,4 @@
 [Fecha: 2016-12-17] Se realizó una actualización.
 [Fecha: 2016-12-18] Se realizó una actualización.
 [Fecha: 2016-12-19] Se realizó una actualización.
+[Fecha: 2016-12-20] Se realizó una actualización.
