@@ -730,3 +730,4 @@
 [Fecha: 2016-12-30] Se realizó una actualización.
 [Fecha: 2016-12-31] Se realizó una actualización.
 [Fecha: 2017-01-01] Se realizó una actualización.
+[Fecha: 2017-01-02] Se realizó una actualización.
