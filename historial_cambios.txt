@@ -732,3 +732,4 @@
 [Fecha: 2017-01-01] Se realizó una actualización.
 [Fecha: 2017-01-02] Se realizó una actualización.
 [Fecha: 2017-01-03] Se realizó una actualización.
+[Fecha: 2017-01-04] Se realizó una actualización.
