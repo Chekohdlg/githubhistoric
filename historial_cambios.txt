@@ -738,3 +738,4 @@
 [Fecha: 2017-01-07] Se realizó una actualización.
 [Fecha: 2017-01-08] Se realizó una actualización.
 [Fecha: 2017-01-09] Se realizó una actualización.
+[Fecha: 2017-01-10] Se realizó una actualización.
