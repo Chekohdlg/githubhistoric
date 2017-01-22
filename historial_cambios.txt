@@ -750,3 +750,4 @@
 [Fecha: 2017-01-19] Se realizó una actualización.
 [Fecha: 2017-01-20] Se realizó una actualización.
 [Fecha: 2017-01-21] Se realizó una actualización.
+[Fecha: 2017-01-22] Se realizó una actualización.
