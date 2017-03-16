@@ -803,3 +803,4 @@
 [Fecha: 2017-03-13] Se realizó una actualización.
 [Fecha: 2017-03-14] Se realizó una actualización.
 [Fecha: 2017-03-15] Se realizó una actualización.
+[Fecha: 2017-03-16] Se realizó una actualización.
