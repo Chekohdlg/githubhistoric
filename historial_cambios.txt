@@ -838,3 +838,4 @@
 [Fecha: 2017-04-17] Se realizó una actualización.
 [Fecha: 2017-04-18] Se realizó una actualización.
 [Fecha: 2017-04-19] Se realizó una actualización.
+[Fecha: 2017-04-20] Se realizó una actualización.
