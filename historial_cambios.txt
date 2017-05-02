@@ -850,3 +850,4 @@
 [Fecha: 2017-04-29] Se realizó una actualización.
 [Fecha: 2017-04-30] Se realizó una actualización.
 [Fecha: 2017-05-01] Se realizó una actualización.
+[Fecha: 2017-05-02] Se realizó una actualización.
