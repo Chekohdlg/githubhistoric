@@ -878,3 +878,4 @@
 [Fecha: 2017-05-27] Se realizó una actualización.
 [Fecha: 2017-05-28] Se realizó una actualización.
 [Fecha: 2017-05-29] Se realizó una actualización.
+[Fecha: 2017-05-30] Se realizó una actualización.
