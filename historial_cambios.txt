@@ -881,3 +881,4 @@
 [Fecha: 2017-05-30] Se realizó una actualización.
 [Fecha: 2017-05-31] Se realizó una actualización.
 [Fecha: 2017-06-01] Se realizó una actualización.
+[Fecha: 2017-06-02] Se realizó una actualización.
