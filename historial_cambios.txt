@@ -886,3 +886,4 @@
 [Fecha: 2017-06-04] Se realizó una actualización.
 [Fecha: 2017-06-05] Se realizó una actualización.
 [Fecha: 2017-06-06] Se realizó una actualización.
+[Fecha: 2017-06-07] Se realizó una actualización.
