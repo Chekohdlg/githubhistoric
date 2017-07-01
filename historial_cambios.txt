@@ -910,3 +910,4 @@
 [Fecha: 2017-06-28] Se realizó una actualización.
 [Fecha: 2017-06-29] Se realizó una actualización.
 [Fecha: 2017-06-30] Se realizó una actualización.
+[Fecha: 2017-07-01] Se realizó una actualización.
