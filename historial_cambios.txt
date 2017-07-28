@@ -937,3 +937,4 @@
 [Fecha: 2017-07-25] Se realizó una actualización.
 [Fecha: 2017-07-26] Se realizó una actualización.
 [Fecha: 2017-07-27] Se realizó una actualización.
+[Fecha: 2017-07-28] Se realizó una actualización.
