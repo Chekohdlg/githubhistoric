@@ -945,3 +945,4 @@
 [Fecha: 2017-08-02] Se realizó una actualización.
 [Fecha: 2017-08-03] Se realizó una actualización.
 [Fecha: 2017-08-04] Se realizó una actualización.
+[Fecha: 2017-08-05] Se realizó una actualización.
