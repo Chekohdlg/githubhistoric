@@ -959,3 +959,4 @@
 [Fecha: 2017-08-16] Se realizó una actualización.
 [Fecha: 2017-08-17] Se realizó una actualización.
 [Fecha: 2017-08-18] Se realizó una actualización.
+[Fecha: 2017-08-19] Se realizó una actualización.
