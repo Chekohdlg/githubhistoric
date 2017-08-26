@@ -966,3 +966,4 @@
 [Fecha: 2017-08-23] Se realizó una actualización.
 [Fecha: 2017-08-24] Se realizó una actualización.
 [Fecha: 2017-08-25] Se realizó una actualización.
+[Fecha: 2017-08-26] Se realizó una actualización.
