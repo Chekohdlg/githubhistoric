@@ -974,3 +974,4 @@
 [Fecha: 2017-08-31] Se realizó una actualización.
 [Fecha: 2017-09-01] Se realizó una actualización.
 [Fecha: 2017-09-02] Se realizó una actualización.
+[Fecha: 2017-09-03] Se realizó una actualización.
