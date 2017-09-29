@@ -1000,3 +1000,4 @@
 [Fecha: 2017-09-26] Se realizó una actualización.
 [Fecha: 2017-09-27] Se realizó una actualización.
 [Fecha: 2017-09-28] Se realizó una actualización.
+[Fecha: 2017-09-29] Se realizó una actualización.
