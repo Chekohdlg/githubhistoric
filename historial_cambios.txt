@@ -1003,3 +1003,4 @@
 [Fecha: 2017-09-29] Se realizó una actualización.
 [Fecha: 2017-09-30] Se realizó una actualización.
 [Fecha: 2017-10-01] Se realizó una actualización.
+[Fecha: 2017-10-02] Se realizó una actualización.
