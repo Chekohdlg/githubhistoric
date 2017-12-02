@@ -1064,3 +1064,4 @@
 [Fecha: 2017-11-29] Se realizó una actualización.
 [Fecha: 2017-11-30] Se realizó una actualización.
 [Fecha: 2017-12-01] Se realizó una actualización.
+[Fecha: 2017-12-02] Se realizó una actualización.
