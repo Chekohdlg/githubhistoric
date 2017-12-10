@@ -1072,3 +1072,4 @@
 [Fecha: 2017-12-07] Se realizó una actualización.
 [Fecha: 2017-12-08] Se realizó una actualización.
 [Fecha: 2017-12-09] Se realizó una actualización.
+[Fecha: 2017-12-10] Se realizó una actualización.
