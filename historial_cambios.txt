@@ -1078,3 +1078,4 @@
 [Fecha: 2017-12-13] Se realizó una actualización.
 [Fecha: 2017-12-14] Se realizó una actualización.
 [Fecha: 2017-12-15] Se realizó una actualización.
+[Fecha: 2017-12-16] Se realizó una actualización.
