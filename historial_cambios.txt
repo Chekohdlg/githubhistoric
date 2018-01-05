@@ -1098,3 +1098,4 @@
 [Fecha: 2018-01-02] Se realizó una actualización.
 [Fecha: 2018-01-03] Se realizó una actualización.
 [Fecha: 2018-01-04] Se realizó una actualización.
+[Fecha: 2018-01-05] Se realizó una actualización.
