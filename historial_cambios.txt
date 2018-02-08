@@ -1132,3 +1132,4 @@
 [Fecha: 2018-02-05] Se realizó una actualización.
 [Fecha: 2018-02-06] Se realizó una actualización.
 [Fecha: 2018-02-07] Se realizó una actualización.
+[Fecha: 2018-02-08] Se realizó una actualización.
