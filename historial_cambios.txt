@@ -1180,3 +1180,4 @@
 [Fecha: 2018-03-25] Se realizó una actualización.
 [Fecha: 2018-03-26] Se realizó una actualización.
 [Fecha: 2018-03-27] Se realizó una actualización.
+[Fecha: 2018-03-28] Se realizó una actualización.
