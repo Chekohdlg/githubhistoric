@@ -1188,3 +1188,4 @@
 [Fecha: 2018-04-02] Se realizó una actualización.
 [Fecha: 2018-04-03] Se realizó una actualización.
 [Fecha: 2018-04-04] Se realizó una actualización.
+[Fecha: 2018-04-05] Se realizó una actualización.
