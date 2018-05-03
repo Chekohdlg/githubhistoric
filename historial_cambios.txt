@@ -1216,3 +1216,4 @@
 [Fecha: 2018-04-30] Se realizó una actualización.
 [Fecha: 2018-05-01] Se realizó una actualización.
 [Fecha: 2018-05-02] Se realizó una actualización.
+[Fecha: 2018-05-03] Se realizó una actualización.
