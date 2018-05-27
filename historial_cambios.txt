@@ -1240,3 +1240,4 @@
 [Fecha: 2018-05-24] Se realizó una actualización.
 [Fecha: 2018-05-25] Se realizó una actualización.
 [Fecha: 2018-05-26] Se realizó una actualización.
+[Fecha: 2018-05-27] Se realizó una actualización.
