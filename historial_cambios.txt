@@ -1245,3 +1245,4 @@
 [Fecha: 2018-05-29] Se realizó una actualización.
 [Fecha: 2018-05-30] Se realizó una actualización.
 [Fecha: 2018-05-31] Se realizó una actualización.
+[Fecha: 2018-06-01] Se realizó una actualización.
