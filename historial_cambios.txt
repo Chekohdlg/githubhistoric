@@ -1318,3 +1318,4 @@
 [Fecha: 2018-08-10] Se realizó una actualización.
 [Fecha: 2018-08-11] Se realizó una actualización.
 [Fecha: 2018-08-12] Se realizó una actualización.
+[Fecha: 2018-08-13] Se realizó una actualización.
