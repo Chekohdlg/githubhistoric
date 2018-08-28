@@ -1333,3 +1333,4 @@
 [Fecha: 2018-08-25] Se realizó una actualización.
 [Fecha: 2018-08-26] Se realizó una actualización.
 [Fecha: 2018-08-27] Se realizó una actualización.
+[Fecha: 2018-08-28] Se realizó una actualización.
