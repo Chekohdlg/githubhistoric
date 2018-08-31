@@ -1336,3 +1336,4 @@
 [Fecha: 2018-08-28] Se realizó una actualización.
 [Fecha: 2018-08-29] Se realizó una actualización.
 [Fecha: 2018-08-30] Se realizó una actualización.
+[Fecha: 2018-08-31] Se realizó una actualización.
