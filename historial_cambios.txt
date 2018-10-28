@@ -1394,3 +1394,4 @@
 [Fecha: 2018-10-25] Se realizó una actualización.
 [Fecha: 2018-10-26] Se realizó una actualización.
 [Fecha: 2018-10-27] Se realizó una actualización.
+[Fecha: 2018-10-28] Se realizó una actualización.
