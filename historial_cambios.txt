@@ -1506,3 +1506,4 @@
 [Fecha: 2019-02-14] Se realizó una actualización.
 [Fecha: 2019-02-15] Se realizó una actualización.
 [Fecha: 2019-02-16] Se realizó una actualización.
+[Fecha: 2019-02-17] Se realizó una actualización.
