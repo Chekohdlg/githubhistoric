@@ -1565,3 +1565,4 @@
 [Fecha: 2019-04-14] Se realizó una actualización.
 [Fecha: 2019-04-15] Se realizó una actualización.
 [Fecha: 2019-04-16] Se realizó una actualización.
+[Fecha: 2019-04-17] Se realizó una actualización.
