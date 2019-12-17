@@ -1809,3 +1809,4 @@
 [Fecha: 2019-12-14] Se realizó una actualización.
 [Fecha: 2019-12-15] Se realizó una actualización.
 [Fecha: 2019-12-16] Se realizó una actualización.
+[Fecha: 2019-12-17] Se realizó una actualización.
