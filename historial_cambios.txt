@@ -1945,3 +1945,4 @@
 [Fecha: 2020-04-28] Se realizó una actualización.
 [Fecha: 2020-04-29] Se realizó una actualización.
 [Fecha: 2020-04-30] Se realizó una actualización.
+[Fecha: 2020-05-01] Se realizó una actualización.
