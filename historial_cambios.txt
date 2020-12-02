@@ -2160,3 +2160,4 @@
 [Fecha: 2020-11-29] Se realizó una actualización.
 [Fecha: 2020-11-30] Se realizó una actualización.
 [Fecha: 2020-12-01] Se realizó una actualización.
+[Fecha: 2020-12-02] Se realizó una actualización.
