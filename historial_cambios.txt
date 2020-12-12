@@ -2170,3 +2170,4 @@
 [Fecha: 2020-12-09] Se realizó una actualización.
 [Fecha: 2020-12-10] Se realizó una actualización.
 [Fecha: 2020-12-11] Se realizó una actualización.
+[Fecha: 2020-12-12] Se realizó una actualización.
