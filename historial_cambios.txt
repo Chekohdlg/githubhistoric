@@ -2296,3 +2296,4 @@
 [Fecha: 2021-04-14] Se realizó una actualización.
 [Fecha: 2021-04-15] Se realizó una actualización.
 [Fecha: 2021-04-16] Se realizó una actualización.
+[Fecha: 2021-04-17] Se realizó una actualización.
