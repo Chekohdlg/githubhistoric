@@ -2341,3 +2341,4 @@
 [Fecha: 2021-05-29] Se realizó una actualización.
 [Fecha: 2021-05-30] Se realizó una actualización.
 [Fecha: 2021-05-31] Se realizó una actualización.
+[Fecha: 2021-06-01] Se realizó una actualización.
