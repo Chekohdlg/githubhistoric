@@ -2510,3 +2510,4 @@
 [Fecha: 2021-11-14] Se realizó una actualización.
 [Fecha: 2021-11-15] Se realizó una actualización.
 [Fecha: 2021-11-16] Se realizó una actualización.
+[Fecha: 2021-11-17] Se realizó una actualización.
